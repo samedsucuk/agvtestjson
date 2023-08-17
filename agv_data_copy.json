@@ -1,0 +1,189 @@
+[{
+    "agvId": "1",
+    "agvImageAsset": "assets/images/truck.png",
+    "agvInfoList": [
+      {
+        "title": "Serial Number:",
+        "trailing": "1PL2-V05-0018/23"
+      },
+      {
+        "title": "Type:",
+        "trailing": "Platform"
+      },
+      {
+        "title": "Production Year:",
+        "trailing": "2023"
+      },
+      {
+        "title": "Production Month:",
+        "trailing": "July"
+      },
+      {
+        "title": "Towing Capacity:",
+        "trailing": "2200kg"
+      },
+      {
+        "title": "Weight (Without Battery):",
+        "trailing": "653kg"
+      },
+      {
+        "title": "Length:",
+        "trailing": "2424 mm"
+      },
+      {
+        "title": "Width:",
+        "trailing": "1113 mm"
+      },
+      {
+        "title": "Height (Floor - Conveyor):",
+        "trailing": "431 mm"
+      },
+      {
+        "title": "Height (Floor - Column):",
+        "trailing": "1894 mm"
+      },
+      {
+        "title": "Motor Power:",
+        "trailing": "1500 W"
+      },
+      {
+        "title": "Operating Voltage:",
+        "trailing": "48 V DC"
+      },
+      {
+        "title": "Battery Capacity:",
+        "trailing": "300 Ah"
+      },
+      {
+        "title": "Max. Speed:",
+        "trailing": "1 m/s"
+      }
+    ]
+  },
+  {
+    "agvId": "2",
+    "agvImageAsset": "assets/images/truck.png",
+    "agvInfoList": [
+      {
+        "title": "Serial Number:",
+        "trailing": "2PL2-V05-0018/23"
+      },
+      {
+        "title": "Type:",
+        "trailing": "Platform"
+      },
+      {
+        "title": "Production Year:",
+        "trailing": "2023"
+      },
+      {
+        "title": "Production Month:",
+        "trailing": "July"
+      },
+      {
+        "title": "Towing Capacity:",
+        "trailing": "2200kg"
+      },
+      {
+        "title": "Weight (Without Battery):",
+        "trailing": "653kg"
+      },
+      {
+        "title": "Length:",
+        "trailing": "2424 mm"
+      },
+      {
+        "title": "Width:",
+        "trailing": "1113 mm"
+      },
+      {
+        "title": "Height (Floor - Conveyor):",
+        "trailing": "431 mm"
+      },
+      {
+        "title": "Height (Floor - Column):",
+        "trailing": "1894 mm"
+      },
+      {
+        "title": "Motor Power:",
+        "trailing": "1500 W"
+      },
+      {
+        "title": "Operating Voltage:",
+        "trailing": "48 V DC"
+      },
+      {
+        "title": "Battery Capacity:",
+        "trailing": "300 Ah"
+      },
+      {
+        "title": "Max. Speed:",
+        "trailing": "1 m/s"
+      }
+    ]
+  },
+  {
+    "agvId": "3",
+    "agvImageAsset": "assets/images/truck.png",
+    "agvInfoList": [
+      {
+        "title": "Serial Number:",
+        "trailing": "30PL2-V05-0018/23"
+      },
+      {
+        "title": "Type:",
+        "trailing": "Platform"
+      },
+      {
+        "title": "Production Year:",
+        "trailing": "2023"
+      },
+      {
+        "title": "Production Month:",
+        "trailing": "July"
+      },
+      {
+        "title": "Towing Capacity:",
+        "trailing": "2200kg"
+      },
+      {
+        "title": "Weight (Without Battery):",
+        "trailing": "653kg"
+      },
+      {
+        "title": "Length:",
+        "trailing": "2424 mm"
+      },
+      {
+        "title": "Width:",
+        "trailing": "1113 mm"
+      },
+      {
+        "title": "Height (Floor - Conveyor):",
+        "trailing": "431 mm"
+      },
+      {
+        "title": "Height (Floor - Column):",
+        "trailing": "1894 mm"
+      },
+      {
+        "title": "Motor Power:",
+        "trailing": "1500 W"
+      },
+      {
+        "title": "Operating Voltage:",
+        "trailing": "48 V DC"
+      },
+      {
+        "title": "Battery Capacity:",
+        "trailing": "300 Ah"
+      },
+      {
+        "title": "Max. Speed:",
+        "trailing": "1 m/s"
+      }
+    ]
+  }
+  
+]
+  
